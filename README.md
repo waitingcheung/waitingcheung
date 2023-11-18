@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
 ![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
@@ -56,11 +58,11 @@ Here are some ideas to get you started:
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat-square)
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat-square)
 
-## 📊 GitHub Status
+## 📊 GitHub Profile Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=waitingcheung&hide=contribs&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/waitingcheung)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=waitingcheung&layout=compact)](https://github.com/waitingcheung)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=waitingcheung&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/waitingcheung)
