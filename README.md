@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat-square)
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat-square)
 
-## 📊 GitHub Profile Stats
+## 📊 GitHub Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=waitingcheung&hide=contribs&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/waitingcheung)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=waitingcheung&layout=compact)](https://github.com/waitingcheung)
 
-## 🏆 GitHub Profile Trophies
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=waitingcheung&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/waitingcheung)
