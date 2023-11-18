@@ -1,4 +1,4 @@
-### Hi there 🤗
+# Hi there 🤗
 
 <!--
 **waitingcheung/waitingcheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🛠️ Technologies
+
+#### Machine Learning & Data Science
+
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat-square)
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
@@ -24,6 +28,8 @@ Here are some ideas to get you started:
 ![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=flat-square)
 ![Conda-Forge Badge](https://img.shields.io/badge/Conda--Forge-000?logo=condaforge&logoColor=fff&style=flat-square)
 
+#### Programming Languages
+
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
@@ -31,6 +37,8 @@ Here are some ideas to get you started:
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
+
+#### Development Tools
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)
@@ -41,12 +49,18 @@ Here are some ideas to get you started:
 ![CircleCI Badge](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff&style=flat-square)
 ![Travis CI Badge](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff&style=flat-square)
 
+#### Collaboration & Communication
+
 ![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=flat-square)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat-square)
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat-square)
 
+## 📊 GitHub Status
+
 [![](https://github-readme-stats.vercel.app/api?username=waitingcheung&hide=contribs&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/waitingcheung)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=waitingcheung&layout=compact)](https://github.com/waitingcheung)
+
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=waitingcheung&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/waitingcheung)
