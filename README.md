@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=flat-square)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat-square)
+![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat-square)
 
 [![](https://github-readme-stats.vercel.app/api?username=waitingcheung&hide=contribs&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/waitingcheung)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=waitingcheung&layout=compact)](https://github.com/waitingcheung)
