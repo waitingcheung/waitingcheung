@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2500&pause=1000&color=D2AFFF&vCenter=true&random=false&width=435&lines=Machine+Learning+Engineer;Team-Centric+Quick+Learner;Passionate+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2500&pause=1000&color=D2AFFF&vCenter=true&random=false&width=435&lines=Machine+Learning+Engineer;Team-Centric+Fast+Learner;Passionate+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ## 🛠️ Technical Skills
 
