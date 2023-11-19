@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=waitingcheung&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/waitingcheung)
+[![trophy](https://github-profile-trophy.vercel.app/?username=waitingcheung&rank=SSS,SS,S,AAA,AA,A,SECRET&column=4)](https://github.com/waitingcheung)
