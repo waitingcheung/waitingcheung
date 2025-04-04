@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=waitingcheung&hide=contribs&rank_icon=github&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/waitingcheung)
+[![](https://github-readme-stats.vercel.app/api?username=waitingcheung&hide=contribs&rank_icon=github&show_icons=true&theme=buefy)](https://github.com/waitingcheung)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=waitingcheung&layout=compact)](https://github.com/waitingcheung)
 
 ## 🏆 GitHub Trophies
