@@ -1,21 +1,8 @@
-# Aloha 🤗 I'm Wai Ting Cheung 🧑🏻‍💻
-
-<!--
-**waitingcheung/waitingcheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Wai Ting Cheung
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2500&pause=1000&color=D2AFFF&vCenter=true&random=false&width=435&lines=Machine+Learning+Engineer;Team-Centric+Fast+Learner;Dedicated+Tech+Enthusiast)](https://git.io/typing-svg)
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -60,11 +47,19 @@ Here are some ideas to get you started:
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat-square)
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat-square)
 
-## 📊 GitHub Stats
+---
 
-[![](https://github-readme-stats.vercel.app/api?username=waitingcheung&hide=contribs&rank_icon=github&show_icons=true&theme=buefy)](https://github.com/waitingcheung)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=waitingcheung&layout=compact)](https://github.com/waitingcheung)
+## 📊 GitHub Activity
 
-## 🏆 GitHub Trophies
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waitingcheung&hide=contribs&rank_icon=github&show_icons=true&theme=buefy)](https://github.com/waitingcheung)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waitingcheung&layout=compact)](https://github.com/waitingcheung)
+
+</div>
+
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=waitingcheung&rank=SSS,SS,S,AAA,AA,A,SECRET&column=4)](https://github.com/waitingcheung)
+
+</div>
